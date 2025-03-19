@@ -27,7 +27,7 @@ window.addEventListener("scroll",() =>{
 })
 
 
-const scriptURL = 'https://script.google.com/macros/s/AKfycbwMST6haa-Zw7nzZiupC7VUzDNWEpmEKBBj6p40kgrM7zwEJA74NCt33s--PO_a3zox/exec'
+const scriptURL = 'https://script.google.com/macros/s/AKfycby8OLEIZOAaa70d8MtuY35CG6I5arQykZ9Fs6yDpt5HQXwBuwxZl-7zXB0DzI5xgiI4/exec'
 const form = document.forms['submit-to-google-sheet']
 const msg = document.getElementById("msg")
 
