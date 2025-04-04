@@ -1,0 +1,133 @@
+
+@media (max-width: 1555px) and (min-width: 1290px) {
+    .container1 {
+        padding-left: 15%;
+
+    }
+    .heading1 {
+        text-align: center;
+        padding-left: 45%;
+    }
+    .heading2 {
+        text-align: center;
+        padding-left: 50%;
+    }
+    .container2 {
+        padding-left: 10%;
+        padding-top: 10%;
+    }
+    .Technical-bars {
+        width: 600px;
+        padding-left: 10%;
+    }
+    .radial-bars{
+        padding-top: 5%;
+        width: 600px;
+        padding-left: 10%;
+    }
+    
+}
+
+@media only screen and (max-width: 1080px) {
+    /*navbar*/
+    .header{
+        display:block;
+    }
+    .logo {
+        font-weight: 500;
+        text-align: center;
+    }
+    .navbar a {
+        display: inline-block;
+        font-size: 18px;
+        font-weight: 400;
+        margin-left: 0px;
+        padding: 5px 5px 0 0;
+    }
+
+    /*home*/
+    .home{
+        align-items: normal;
+        padding-top: 20%;
+        padding-bottom: 0;
+    }
+    .home-content h1 {
+        font-size: 38px;
+        font-weight: 700;
+    }
+    .home-content h3 {
+        font-size: 25px;
+        font-weight: 400;
+    }
+    .home-content h4 {
+        font-size: 25px;
+        font-weight: 500;
+    }
+    .img{
+        max-width: 300px;
+        position: relative;
+        left: -10%;
+        top: 2%;
+        padding-bottom: 30px;
+        padding-left: 8%;
+        margin-left: 0;
+    }
+        /*about*/
+    .about{
+        padding-top: 20.001%;
+    }
+    .about-text h2{
+        font-size: 50px;
+    }
+    .about-text h4{
+        font-size: 24px;
+    }
+    .about-text p {
+        font-size: 19px;
+    }
+      /*service*/
+    .sub-title{
+        font-size: 50px;
+        padding-top: 10%;
+    }
+    /* Skills */
+    .subtitle{
+        padding-top: 15%;
+    }
+    .heading1{
+        margin-left: -100px;
+    }
+
+    .Technical-bars{
+        margin-left: -50px;
+    }
+    .heading2{
+        margin-left: -100px;
+    }
+    .radial-bars{
+        margin-left: -3 0px;
+    }
+    .container2{
+        padding-top: 25%;
+    }
+    /*Projects*/
+    .main-text{
+        padding-top: 10%;
+    }
+    /*Contacts*/
+    .contact-text {
+        padding-top: -150;
+    }
+    .contact {
+        display:list-item;
+    }
+    .contact-icons {
+        margin-top: -50px;
+        margin-left: 10px;
+    }
+    .contact-form{
+        margin-top: 50px;
+    }
+  }
+
+  
